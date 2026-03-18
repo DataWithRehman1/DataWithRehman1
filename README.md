@@ -1,93 +1,106 @@
-<h1>👋 Hi, I'm Abdulrehman</h1>
-<h3>Data Science Student • Aspiring ML Engineer • Python Developer</h3>
+<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
+<h3 align="center">Data Scientist</h3>
+<p align="center"><b>Turning Business Data into Profitable Insights</b></p>
 
-<p>
-  <a href="https://github.com/DataWithRehman1"><img src="https://komarev.com/ghpvc/?username=DataWithRehman1&label=Profile%20Views&color=0e75b6&style=flat"></a>
-  <a href="https://github.com/DataWithRehman1?tab=followers"><img src="https://img.shields.io/github/followers/DataWithRehman1?label=Followers&style=social"></a>
+<p align="center">
+  <a href="https://github.com/DataWithRehman1">
+    <img src="https://komarev.com/ghpvc/?username=DataWithRehman1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DataWithRehman1/DataWithRehman1/main/banner.png" alt="Abdul Rehman Banner" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-🎯 I work on practical **Python**, **Data Analysis**, and **Machine Learning** projects with a strong focus on logic, clarity, and real-world use cases.
-
-🎯 My goal is to build a solid foundation in **Data Science** and gradually move toward production-level ML systems.
-
-📚 **Learning Path:** Python Fundamentals → Data Analysis → Machine Learning → Neural Networks (ANN → CNN)
-
-🤝 Open to **internships**, **collaborations**, and **learning opportunities**
+## 👨‍💼 Professional Summary
+I am **Abdul Rehman**, a passionate **Data Scientist** with a strong foundation in **Data Analysis, Exploratory Data Analysis (EDA), and Data Visualization**.  
+Currently, I am advancing my expertise in **Machine Learning, Deep Learning, and Computer Vision** to build impactful, intelligent solutions.
 
 ---
 
-## 🔥 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🍽️ **Restaurant Management System** | Python console-based system for menu handling and bill calculation |
-| 🎓 **Student & Utility Systems** | Small Python projects to practice control flow, data structures, and functions |
-| 📊 **Machine Learning Practice Projects** | Data preprocessing, model training, and evaluation notebooks |
+## 🎯 Core Skills
+- **Data Analysis**
+- **Machine Learning**
+- **Deep Learning**
 
 ---
 
-## 🛠️ Tech & Tools
+## 🧰 Skills & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ---
 
-## 📁 How My Repos Are Structured
+## 🚀 Featured Projects
 
-```
-project-name/
-├── README.md
-├── src/
-│   └── main.py
-├── notebooks/
-├── requirements.txt
-└── LICENSE
-```
+### 1) Fraud Detection
+- **Goal:** Identify fraudulent transactions using classification models.
+- **Highlights:** Data cleaning, EDA, feature engineering, model training & evaluation (Precision/Recall, F1, ROC-AUC).
+- **Tech:** Python • Pandas • Scikit-learn  
 
----
+### 2) Loan Prediction
+- **Goal:** Predict loan approval / default risk based on applicant and financial features.
+- **Highlights:** Missing value handling, encoding, scaling, model comparison, metrics-driven selection.
+- **Tech:** Python • Pandas • Scikit-learn  
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DataWithRehman1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataWithRehman1&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataWithRehman1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
-</p>
+### 3) Customer Churn Prediction
+- **Goal:** Predict which customers are likely to churn and why.
+- **Highlights:** EDA, feature importance, churn drivers, model evaluation, actionable insights.
+- **Tech:** Python • Pandas • Scikit-learn • Power BI (optional dashboard)  
+  
 
 ---
 
-## 📬 Contact Me
-
-<p>
-  <a href="https://www.linkedin.com/in/datawithrehman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/DataWithRehman1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:iamrehmanar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-📧 **Email:** iamrehmanar@gmail.com
+## 📌 Current Focus
+- Building real-world data science projects  
+- Strengthening practical ML & DL concepts  
+- Learning and implementing **Computer Vision** pipelines  
 
 ---
 
+## 🤝 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/datawithrehman" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="38" alt="LinkedIn" />
+  </a>
+  <img width="14" />
+  <a href="https://www.kaggle.com/iamabdulrehman849" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="38" alt="Kaggle" />
+  </a>
+  <img width="14" />
+  <a href="https://x.com/DataWithRehman1" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" height="38" alt="X" />
+  </a>
+  <img width="14" />
+  <a href="https://github.com/DataWithRehman1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" /><height="38" alt="GitHub" />
+  </a>
+  <img width="14" />
+  <a href="mailto:iamrehmanar@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="38" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 📫 Contact
+- **Email:** iamrehmanar@gmail.com
+
 <p>
-  <i>⭐ If you find my projects helpful, consider giving them a star! It means a lot 🙏</i>
+  <i>⭐ If you find my projects helpful, consider giving them a star! It means a lot </i>
 </p>
 
 <p>
   <b>Let's connect, collaborate, and build something amazing together! 🚀</b>
 </p>
-
